@@ -150,29 +150,3 @@ streamlit run app.py
 * Handling local vs vector retrieval
 
 ---
-
-## ✅ What Works
-
-* Adaptive difficulty system
-* Persistent memory tracking
-* Quiz and flashcard generation
-* RAG-based context retrieval
-
----
-
-## 🚧 Limitations
-
-* Basic JSON storage (not scalable)
-* UI can be improved
-* Limited spaced repetition logic
-
----
-
-## 🔮 Future Improvements
-
-* Replace JSON with database (SQLite)
-* Improve UI design
-* Add user authentication
-* Enhance spaced repetition algorithms
-
----
